@@ -1,2 +1,2 @@
-const Apple = 1;
+const Apple = 3;
 console.log(Apple);
